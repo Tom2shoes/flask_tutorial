@@ -143,3 +143,5 @@ venv
 app.db
 microblog.log*
 microblog.code-workspace
+.idea
+.vscode
